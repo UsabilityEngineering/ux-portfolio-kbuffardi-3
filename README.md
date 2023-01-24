@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+I'm Kevin Buffardi, the professor for Usability Engineering.
 
 ## UX Team Project
 
